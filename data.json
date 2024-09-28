@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "image": "https://th.bing.com/th?id=OIF.cM%2f2bYtmuKa1iE9iFidVHA&rs=1&pid=ImgDetMain",
+    "name": "Product 1",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 10000
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 10000
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 10000
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 10000
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 10000
+  }
+]
